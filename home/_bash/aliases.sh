@@ -18,6 +18,7 @@ countdown()
 NODOTHOME="${HOME}/code/nodot"
 alias cdn="cd ${NODOTHOME}"
 alias vn="cd ${NODOTHOME}; vim"
+alias nodot="cd ${NODOTHOME}; npm start"
 
 
 # Theta Pi
