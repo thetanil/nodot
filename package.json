@@ -1,0 +1,31 @@
+{
+  "name": "nodot",
+  "version": "1.0.0",
+  "description": "Dotfiles for Noders",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha",
+    "watch": "mocha --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thetanil/nodot.git"
+  },
+  "keywords": [
+    "dotfiles"
+  ],
+  "author": "Nicholas Hildebrant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thetanil/nodot/issues"
+  },
+  "homepage": "https://github.com/thetanil/nodot#readme",
+  "dependencies": {
+    "level": "^5.0.1",
+    "mocha": "^6.1.4"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
+}
